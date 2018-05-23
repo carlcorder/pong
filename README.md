@@ -1,7 +1,7 @@
 # Pong!
 
 * A simple game of Pong using HTML5 Canvas and JavaScript.
-* Right paddle advesary is controlled using a simple AI.
+* Advesary (right paddle) is controlled using a simple AI.
 
 ![gif](https://media.giphy.com/media/9rcjdmmIKDB5S5it71/giphy.gif)
 
